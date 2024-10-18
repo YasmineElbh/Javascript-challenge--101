@@ -10,7 +10,7 @@ The goal of this challenge is to:
 - Utilize Git for version control and share my progress with others.
 
   ## **Course Source**
-I am following the course and exercises from this Youtue channel[YouTube video](https://www.youtube.com/watch?v=EerdGm-ehJQ) by [SuperSimpleDev
+I am following the course and exercises from this Youtube channel[YouTube video](https://www.youtube.com/watch?v=EerdGm-ehJQ) by [SuperSimpleDev
 ]. This resource covers a wide range of topics essential for mastering JavaScript.
 
  ## **Content**
@@ -24,4 +24,9 @@ This repository includes exercises covering the following topics:
 7. Object-Oriented Programming
 8. Asynchronous JavaScript (Callbacks, Promises, Async/Await)
 9. Testing Frameworks
+
+
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2FProgrammerHumor%2Fcomments%2F88gniv%2Fold_meme_format_timeless_javascript_quirks%2F&psig=AOvVaw3JcWr2nXiZqgG1WfogXlGY&ust=1729361989851000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMD-5c7FmIkDFQAAAAAdAAAAABAJ
+
+
 
