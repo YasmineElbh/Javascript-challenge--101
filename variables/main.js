@@ -1,1 +1,4 @@
-let cartQuantity = 0;
+const namee = 'yasmine'
+console.log(`My name is: ${namee}`)
+
+
