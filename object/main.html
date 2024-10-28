@@ -26,6 +26,25 @@
         //delete
         delete prouct.sexe;
         console.log(prouct);
+
+
+        const product2 = {
+            name:'shirt',
+            'delevery-time': '1 day',
+            rating:{ //nested object
+                stars: 4.5,
+                count: 87
+            },
+            fun: function function1(){//method
+                console.log("funcion inside object");
+            }
+        };
+        console.log(product2);
+        console.log(product2.name);
+        console.log(product2['delivery-time']);
+
+        console.log(product2.rating.count);
+        product2.fun();
     </script>
 </body>
 </html>
