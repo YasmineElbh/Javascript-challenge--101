@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dom</title>
+</head>
+<body>
+    <button>hello</button>
+    <button class="js"> second </button>
+    <script>
+        //accessing to body(object) to access a proporty of the body oject called html and change the inner html property to hello
+        //document oject reprents to models te webpages
+        // document.body.innerHTML='hey';
+        //document.title = 'good job';
+
+        //properties and methods
+
+        //properties:
+        // document.title = 'good job';
+        // document.body.innerHTML = '<button>hello</button>';
+
+        //methods
+        console.log(document.querySelector('button'))   //lets us get any element from the pae and put it inside js
+        console.log(document.querySelector('button').innerHTML)
+        console.log(document.querySelector('button').innerHTML = 'cengd')//changed the text inside the button
+        
+        const btn = document.querySelector('.js')
+        console.log(btn)
+
+    </script>
+</body>
+</html>
