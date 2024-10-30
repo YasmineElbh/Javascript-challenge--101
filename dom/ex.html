@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+        <h3>Youtube Suscribe Button</h3>
+        <button onclick="subscribe();"
+        class="js-sbs">Subscribe</button>
+        <br>
+        <p>Amazon Shipping Calculator</p>
+        <input placeholder="Cost of Order">
+        <button onclick="calculate()">Calculate</button>
+    <script>
+        function calculate(){
+            
+        }
+        function subscribe(){
+            const btnel = document.querySelector('.js-sbs');
+                if(btnel.innerText === 'subscribe'){
+                    btnel.innerHTML = 'subscribed'
+                }
+                else{
+                    btnel.innerHTML = 'subscribe'}
+        }
+    </script>
+</body>
+</html>
